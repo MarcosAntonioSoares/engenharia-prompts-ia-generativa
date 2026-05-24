@@ -213,9 +213,11 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ---
 
-### Apresentação gerada pelo NotebookLM
+### 📚 Apresentação gerada pelo NotebookLM
 
-📄 [Abrir apresentação](./assets/Artificial_Thought_Engineering.pdf)
+> Documento explicando Engenharia de Prompts e IA Generativa.
+
+📄 [Ver apresentação completa (PDF)](./assets/Artificial_Thought_Engineering.pdf)
 
 ## 🚀 Conclusão
 
