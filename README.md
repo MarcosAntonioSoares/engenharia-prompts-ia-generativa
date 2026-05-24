@@ -209,13 +209,15 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ## ![Prompts](./assets/prompt2.png)
 
-![Prompts](./assets/prompt3.png)
+## ![Prompts](./assets/prompt3.png)
 
 ---
 
 ### 📚 Apresentação gerada pelo NotebookLM
 
 > Documento explicando Engenharia de Prompts e IA Generativa.
+
+## ![Prompts](./assets/apresentacao.png)
 
 📄 [Abrir apresentação](./assets/Artificial_Thought_Engineering.pdf)
 
