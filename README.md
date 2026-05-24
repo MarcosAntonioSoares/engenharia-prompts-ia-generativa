@@ -169,10 +169,8 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ### 📚 Glossário
 
-- **Token:** pequenas unidades de texto processadas pela IA.
-- **Context Window:** quantidade máxima de contexto analisado pelo modelo.
-- **Chain-of-Thought:** técnica que incentiva explicações passo a passo.
-- **Fine-tuning:** treinamento adicional para especialização do modelo.
+- **Token:** unidade básica de texto processada por modelos de IA.
+- **Context Window:** limite de contexto que o modelo consegue analisar.
 - **Hallucination:** geração de informações incorretas pela IA.
 
 ---
@@ -197,9 +195,26 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ---
 
+## 📸 Evidências do Processo
+
+### NotebookLM
+
+![NotebookLM](./assets/notebooklm.png)
+
+---
+
+### Testes de Prompts
+
+![Prompts](./assets/prompt1.png)
+---
+![Prompts](./assets/prompt2.png)
+---
+![Prompts](./assets/prompt3.png)
+
 ## 🚀 Conclusão
 
-Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta ativa de aprendizagem, permitindo organização, síntese e aprofundamento do conhecimento de forma estruturada e eficiente.
+Este projeto demonstrou como a Engenharia de Prompts influencia diretamente a qualidade das respostas em modelos de IA generativa.
 
-Além disso, o estudo evidenciou a importância da Engenharia de Prompts para melhorar a comunicação com modelos de IA generativa e obter resultados mais precisos e úteis.
+Através de testes práticos, foi possível observar que pequenas alterações na estrutura dos prompts impactam significativamente o nível de precisão, organização e utilidade das respostas.
 
+Além disso, o uso do NotebookLM permitiu consolidar o aprendizado de forma estruturada e baseada em fontes confiáveis.
