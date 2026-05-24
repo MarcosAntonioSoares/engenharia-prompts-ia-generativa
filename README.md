@@ -217,7 +217,7 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 > Documento explicando Engenharia de Prompts e IA Generativa.
 
-📄 [Ver apresentação completa (PDF)](./assets/Artificial_Thought_Engineering.pdf)
+📄 [Abrir apresentação](./assets/Artificial_Thought_Engineering.pdf)
 
 ## 🚀 Conclusão
 
