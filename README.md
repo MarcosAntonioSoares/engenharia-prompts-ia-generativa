@@ -215,7 +215,7 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ### Apresentação gerada pelo NotebookLM
 
-![Apresentação](./assets/Artificial_Thought_Engineering.pdf)
+📄 [Abrir apresentação](./assets/Artificial_Thought_Engineering.pdf)
 
 ## 🚀 Conclusão
 
