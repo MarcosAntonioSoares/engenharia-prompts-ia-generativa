@@ -205,11 +205,17 @@ Processo contínuo de refinamento para melhorar os resultados.
 
 ### Testes de Prompts
 
-![Prompts](./assets/prompt1.png)
----
-![Prompts](./assets/prompt2.png)
----
+## ![Prompts](./assets/prompt1.png)
+
+## ![Prompts](./assets/prompt2.png)
+
 ![Prompts](./assets/prompt3.png)
+
+---
+
+### Apresentação gerada pelo NotebookLM
+
+![Apresentação](./assets/Artificial_Thought_Engineering.pdf)
 
 ## 🚀 Conclusão
 
